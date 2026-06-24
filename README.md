@@ -19,7 +19,7 @@
 
 | 章節 | 主題 | 狀態 |
 |------|------|------|
-| [07](./07-指令列Git/README.md) | 指令列 Git 基礎 | 🔲 待學習 |
+| [07](./07-指令列Git/README.md) | 指令列 Git 基礎 | ✅ 完成 |
 | [08](./08-指令列Git進階/README.md) | 指令列 Git 進階 | 🔲 待學習 |
 | [09](./09-工作檔案備份/README.md) | 把工作檔案放上 GitHub | 🔲 待學習 |
 | [10](./10-GitHub-Actions/README.md) | GitHub Actions 自動化 | 🔲 待學習 |
